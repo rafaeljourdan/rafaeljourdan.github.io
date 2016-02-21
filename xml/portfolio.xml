@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<portfolio>
+
+    <configTextos>
+        <portfolioTexto>Portfolio</portfolioTexto>
+        <sobreTexto>Sobre</sobreTexto>
+        <contatoTexto>Contato</contatoTexto>
+        <localizacaoTexto>Localização</localizacaoTexto>
+        <fiqueEmContatoTexto>Fique em Contato</fiqueEmContatoTexto>
+        <sobreMimTexto>Sobre Mim</sobreMimTexto>
+    </configTextos>
+
+    <sobre>
+        <avatar>img/profile.png</avatar>
+        <nome>Rafael Jourdan</nome>
+        <mensagemBoasVindas>Olá, seja bem vindo!</mensagemBoasVindas>
+        <habilidades>Web Developer</habilidades>
+        <resumo>
+            <texto>Web Developer desde 2009 com sólidos conhecimentos em linguagem de programação, arquitetura de software e análise de dados.</texto>
+            <texto>Pós-graduado em Engenharia de Software pelo Infnet e graduado em Sistemas da Informação pela UniverCidade.</texto>
+        </resumo>
+        <curriculoPdf>curriculo.pdf</curriculoPdf>
+        <resumoRodape>Freelance nas horas vagas, apaixonado por TI 24h.</resumoRodape>
+    </sobre>
+
+    <projetos>
+
+        <item>
+            <nome>Prêmio Paralímpicos Brasileiro 2015</nome>
+            <imagem>img/portfolio/premio.jpg</imagem>
+            <descricao>
+                <![CDATA[Site com sistema de ranking integrado para votação popular para eleger o destaque do ano além de quiz sobre o prêmio e comitê paralímpicos. ]]>
+            </descricao>
+            <data>2015</data>
+            <servico>Back-end e Front-end</servico>
+            <tags>Asp.Net MVC, C#, HTML5, CSS3, JS, Responsive</tags>
+        </item>
+
+        <item>
+            <nome>Matizar</nome>
+            <imagem>img/portfolio/matizar.jpg</imagem>
+            <descricao>
+                <![CDATA[Site com sistema integrado para gestão dos projetos audiovisuais desenvolvidos pela empresa além de notícias, mural e página de contato.]]>
+            </descricao>
+            <data>2015</data>
+            <servico>Back-end e Front-end</servico>
+            <tags>PHP, MySQL, HTML5, CSS3, JS, Responsive</tags>
+        </item>
+
+        <item>
+            <nome>Hotsite Metrô Rio Copa</nome>
+            <imagem>img/portfolio/metro.jpg</imagem>
+            <descricao>
+                <![CDATA[Hotsite do <b>Metrô Rio</b> em português, inglês e espanhol para os usuários visualizarem as rotas, linhas e estações de metrô durante a Copa do Mundo. ]]>
+            </descricao>
+            <data>2014</data>
+            <servico>Front-end</servico>
+            <tags>HTML5, CSS3, JS, AngularJs, Responsive</tags>
+        </item>
+
+    </projetos>
+
+    <!--Comentar o que não utilizar-->
+    <redesSociais>
+        <facebook>https://www.facebook.com/rafaeljourdan</facebook>
+        <!--<googleplus></googleplus>-->
+        <!--<twitter></twitter>-->
+        <linkedin>http://br.linkedin.com/in/rafaeljourdan</linkedin>
+        <github>https://github.com/rafaeljourdan</github>
+    </redesSociais>
+
+    <contato>
+        <texto>Pronto para iniciar seu próximo projeto conosco? Que ótimo! Entre em contato através do email ou telefone e retornaremos o mais breve possível.</texto>
+        <localizacao>Freguesia, Rio de Janeiro - Brasil</localizacao>
+        <email>rafaelfaj@gmail.com</email>
+        <telefones>
+            <item>(21) 97983-0909</item>
+            <item>(21) 3338-5406</item>
+        </telefones>
+    </contato>    
+    
+</portfolio>
