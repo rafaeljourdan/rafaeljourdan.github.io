@@ -6,6 +6,7 @@
 * Suba os arquivos no seu repositório remoto e seja feliz.
 
 **Obs1:** Usei XML fazendo conversão para json pois é mais fácil para quem não é de TI editar
+
 **Obs2:** Essa foi apenas a versão inicial, desenvolvi em uma tarde com minha filha chorando ao fundo kkk, o projeto é aberto e tenho esperança que a galera colabore ;)
 
 ## Créditos Template
