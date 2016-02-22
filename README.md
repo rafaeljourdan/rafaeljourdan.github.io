@@ -1,11 +1,14 @@
-# rafaeljourdan.github.io
+## Portfolio grátis no github com angularJS e XML
 
-# Portfolio grátis no github com angularJS e XML
+* Crie um repositório seguindo a nomenclatura **seuusuario.github.io**
+* Baixe ou clone este repositório
+* Altere as informações no arquivo XML
+* Suba os arquivos no seu repositório remoto e seja feliz.
 
-# seuusuario.github.io
+**Obs1:** Usei XML fazendo conversão para json pois é mais fácil para quem não é de TI editar
+**Obs2:** Essa foi apenas a versão inicial, desenvolvi em uma tarde com minha filha chorando ao fundo kkk, o projeto é aberto e tenho esperança que a galera colabore ;)
 
-
-## Criadores do Template
+## Créditos Template
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). 
 
