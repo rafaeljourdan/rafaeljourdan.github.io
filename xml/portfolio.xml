@@ -17,11 +17,11 @@
         <mensagemBoasVindas>Olá, seja bem vindo!</mensagemBoasVindas>
         <habilidades>Web Developer</habilidades>
         <resumo>
-            <texto>Web Developer desde 2009 com sólidos conhecimentos em linguagem de programação, arquitetura de software e análise de dados.</texto>
+            <texto>Desenvolvedor desde 2009, autodidata, com sólidos conhecimentos em linguagem de programação, arquitetura de software e análise de dados.</texto>
             <texto>Pós-graduado em Engenharia de Software pelo Infnet e graduado em Sistemas da Informação pela UniverCidade.</texto>
         </resumo>
         <curriculoPdf>curriculo.pdf</curriculoPdf>
-        <resumoRodape>Freelance nas horas vagas, apaixonado por TI 24h.</resumoRodape>
+        <resumoRodape>Freelance nas horas vagas, conectado 24h.</resumoRodape>
     </sobre>
 
     <projetos>
