@@ -19,9 +19,10 @@
         <resumo>
             <texto>Desenvolvedor desde 2009, autodidata, com sólidos conhecimentos em linguagem de programação, arquitetura de software e análise de dados.</texto>
             <texto>Pós-graduado em Engenharia de Software pelo Infnet e graduado em Sistemas da Informação pela UniverCidade.</texto>
+            <texto>Cientista de Dados pelo Udacity.</texto>
         </resumo>
         <curriculoPdf>curriculo.pdf</curriculoPdf>
-        <resumoRodape>Freelance nas horas vagas, conectado 24h.</resumoRodape>
+        <resumoRodape>Sou dev <3</resumoRodape>
     </sobre>
 
     <projetos>
