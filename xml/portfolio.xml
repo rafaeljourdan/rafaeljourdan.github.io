@@ -14,7 +14,7 @@
     <sobre>
         <avatar>img/profile.png</avatar>
         <nome>Rafael Jourdan</nome>
-        <mensagemBoasVindas>Olá, seja bem vindo!</mensagemBoasVindas>
+        <mensagemBoasVindas>Olá, seja bem-vindo!</mensagemBoasVindas>
         <habilidades>Web Developer</habilidades>
         <resumo>
             <texto>Desenvolvedor desde 2009, autodidata, com sólidos conhecimentos em linguagem de programação, arquitetura de software e análise de dados.</texto>
